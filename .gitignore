@@ -1,0 +1,16 @@
+# Node
+frontend/node_modules/
+npm-debug.log
+
+# Python
+backend/__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# Vite build
+frontend/dist/
+
+# Models
+*.pt
