@@ -13,6 +13,3 @@ backend/__pycache__/
 frontend/dist/
 
 # Models
-*.pt
-Frontend
-Frontend
