@@ -1,8 +1,16 @@
-n web application focused on intelligent crowd analysis, risk detection, and simulation‑based insights. The goal of the project is to transform raw data into **actionable intelligence** using modern frontend frameworks and a robust backend.
+# SmartCrowd 🚀
+
+A full‑stack, hackathon‑grade application designed to demonstrate **real‑world problem solving**, **scalable architecture**, and **clean engineering practices**. This README is intentionally detailed so that *any reviewer, contributor, or evaluator* can understand the project end‑to‑end without confusion.
+
+---
+link : [https://smartcrowd.netlify.com/](https://smartcrowd.netlify.app/)
+
+## 📌 Project Description
+
+**SmartCrowd** is a data‑driven web application focused on intelligent crowd analysis, risk detection, and simulation‑based insights. The goal of the project is to transform raw data into **actionable intelligence** using modern frontend frameworks and a robust backend.
 
 The project was built under time pressure (hackathon conditions), which makes the architectural decisions, trade‑offs, and mistakes especially valuable to document.
 
-have a look at : https
 ---
 
 ## 🎯 Core Objectives
@@ -53,7 +61,7 @@ Data Processing / Simulation Logic
 
 ---
 
-## 📂 Folder Structure its basic
+## 📂 Folder Structure
 
 ```
 SmartCrowd/
@@ -251,7 +259,4 @@ These mistakes improved the **final robustness** of the project.
 This project is open‑source and intended for **learning, showcasing skills, and collaboration**.
 
 ---
-
-
-If you’re reviewing this project: look at the **intent, structure, and improvement curve** — not just the final output.
 
